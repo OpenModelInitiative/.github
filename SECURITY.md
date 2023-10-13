@@ -135,7 +135,7 @@ Welcome,
 You (or your list) have been identified as a contact for receiving security announcements from the Open Nodel Initiative (OMI).
 This list (security-announce@openmodel.in) is used to provide actionable information to multiple distribution vendors at once.
 This list is not intended for individuals to find out about security issues.
-You can find more information here: https://github.com/openmodelinitiative/org/blob/master/SECURITY.md
+You can find more information here: https://github.com/OpenModelInitiative/.github/blob/main/SECURITY.md
 
 OMI is largely a specs organization and hosts a few software projects as well, notably `run`.
 
